@@ -1,0 +1,868 @@
+Script started on 2023-04-25 14:52:19+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="168" LINES="16"]
+]0;spbose23@TIGER02981: /mnt/c/Windows/system32[01;32mspbose23@TIGER02981[00m:[01;34m/mnt/c/Windows/system32[00m$ git cong[Kfig -- glo[K[K[K[Kglobal user.nqm[K[Kame "Soumya P Bose"
+]0;spbose23@TIGER02981: /mnt/c/Windows/system32[01;32mspbose23@TIGER02981[00m:[01;34m/mnt/c/Windows/system32[00m$ git config --global user.name "Soumya P Bose"[1P[1P[1P[1P[1@e[1@m[1@a[1@i[1@l[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[KS[Ksoumya.bose@tigeranalytics.com
+]0;spbose23@TIGER02981: /mnt/c/Windows/system32[01;32mspbose23@TIGER02981[00m:[01;34m/mnt/c/Windows/system32[00m$ git conif[K[Kfig --global core.editor emacs
+]0;spbose23@TIGER02981: /mnt/c/Windows/system32[01;32mspbose23@TIGER02981[00m:[01;34m/mnt/c/Windows/system32[00m$ git config --globa;[Kl init.defaultBranch main
+]0;spbose23@TIGER02981: /mnt/c/Windows/system32[01;32mspbose23@TIGER02981[00m:[01;34m/mnt/c/Windows/system32[00m$ git config --list
+[?1h=user.name=Soumya P Bose[m
+user.email=soumya.bose@tigeranalytics.com[m
+core.editor=emacs[m
+init.defaultbranch=main[m
+[K[?1l>]0;spbose23@TIGER02981: /mnt/c/Windows/system32[01;32mspbose23@TIGER02981[00m:[01;34m/mnt/c/Windows/system32[00m$ exit
+exit
+
+Script done on 2023-04-25 15:07:57+05:30 [COMMAND_EXIT_CODE="0"]
+Script started on 2023-04-25 19:12:53+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="168" LINES="16"]
+]0;spbose23@TIGER02981: /[01;32mspbose23@TIGER02981[00m:[01;34m/[00m$ ls
+[0m[01;36mbin[0m   [01;34metc[0m   [01;36mlib[0m    [01;36mlibx32[0m      [01;34mmnt[0m   [01;34mroot[0m  [01;34msnap[0m  [30;42mtmp[0m  [01;34mwslAJFPfd[0m  [01;34mwslEFciej[0m  [01;34mwslIfobhJ[0m  [01;34mwslMaOabD[0m  [01;34mwslbBhbEm[0m  [01;34mwslcoohBD[0m  [01;34mwslhjiafo[0m  [01;34mwsllCaoFa[0m
+[01;34mboot[0m  [01;34mhome[0m  [01;36mlib32[0m  [01;34mlost+found[0m  [01;34mopt[0m   [01;34mrun[0m   [01;34msrv[0m   [01;34musr[0m  [01;34mwslALhKhn[0m  [01;34mwslIIJfFI[0m  [01;34mwslJPHnbm[0m  [01;34mwslNiGIMd[0m  [01;34mwslcEAoNN[0m  [01;34mwsldaMMlf[0m  [01;34mwslkbbnOA[0m  [01;34mwsllJMOgh[0m
+[01;34mdev[0m   [01;32minit[0m  [01;36mlib64[0m  [01;34mmedia[0m       [01;34mproc[0m  [01;36msbin[0m  [01;34msys[0m   [01;34mvar[0m  [01;34mwslBCoakI[0m  [01;34mwslIJOmHD[0m  [01;34mwslKCcJJD[0m  [01;34mwslPkJfKn[0m  [01;34mwslciLlMM[0m  [01;34mwslgoEmlo[0m  [01;34mwslkiGKfM[0m  [01;34mwsloaDnMl[0m
+]0;spbose23@TIGER02981: /[01;32mspbose23@TIGER02981[00m:[01;34m/[00m$ cd home
+]0;spbose23@TIGER02981: /home[01;32mspbose23@TIGER02981[00m:[01;34m/home[00m$ ls
+[0m[01;34mspbose23[0m
+]0;spbose23@TIGER02981: /home[01;32mspbose23@TIGER02981[00m:[01;34m/home[00m$ cd spbose23
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ ls
+my_git_session  my_unix_session
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ git init
+Initialized empty Git repository in /home/spbose23/.git/
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ git clone git [K@github.com:spbose23/TCE.git
+Cloning into 'TCE'...
+The authenticity of host 'github.com (20.207.73.82)' can't be established.
+ECDSA key fingerprint is SHA256:p2QAMXNIC1TJYWeIOttrVc98/R1BUFWu3/LiyKgUfQM.
+Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+Warning: Permanently added 'github.com,20.207.73.82' (ECDSA) to the list of known hosts.
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ git clone git@github.com:spbose23/TCE.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cinit[Kclone git@github.com:spbose23/TCE.git[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Khttps://github.com/spbose23/TCE.git
+Cloning into 'TCE'...
+Username for 'https://github.com': spbose23
+Password for 'https://spbose23@github.com': 
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/spbose23/TCE.git/'
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ echo [K "# TCE" >> README.md
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ git add README.md
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ git commit -m "first commit"
+[master (root-commit) 3d05b70] first commit
+ 1 file changed, 1 insertion(+)
+ create mode 100644 README.md
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ git brac[Knch -M main
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ git remote add origin 'https:[K[K[K[K[K[K[Khttps://githy[Kub.com/spbose23/TCE.git
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ git remote add origin https://github.com/spbose23/TCE.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cbranch -M main[K
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ git branch -M main[K[K[K[K[K[K[K[K[K[K[K[K[K[Kpush -u origin main
+Username for 'https://github.com': spbose23
+Password for 'https://spbose23@github.com': 
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/spbose23/TCE.git/'
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ git push -u origin main
+Username for 'https://github.com': spbose23
+Password for 'https://spbose23@github.com': 
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ git push -u origin main
+Username for 'https://github.com': spbose23
+Password for 'https://spbose23@github.com': 
+remote: Write access to repository not granted.
+fatal: unable to access 'https://github.com/spbose23/TCE.git/': The requested URL returned error: 403
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ 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[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kgit status
+On branch main
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m.bash_history[m
+	[31m.bash_logout[m
+	[31m.bashrc[m
+	[31m.gitconfig[m
+	[31m.landscape/[m
+	[31m.motd_shown[m
+	[31m.profile[m
+	[31m.ssh/[m
+	[31m.sudo_as_admin_successful[m
+	[31mmy_git_session[m
+	[31mmy_unix_session[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ exit
+exit
+
+Script done on 2023-04-25 20:46:26+05:30 [COMMAND_EXIT_CODE="0"]
+Script started on 2023-04-26 17:03:31+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="120" LINES="30"]
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ echo 'Mys[K Project' > README
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ git status
+On branch main
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m.bash_history[m
+	[31m.bash_logout[m
+	[31m.bashrc[m
+	[31m.gitconfig[m
+	[31m.landscape/[m
+	[31m.motd_shown[m
+	[31m.profile[m
+	[31m.ssh/[m
+	[31m.sudo_as_admin_successful[m
+	[31mREADME[m
+	[31mmy_git_session[m
+	[31mmy_unix_session[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ git add README
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ git status
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   README[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m.bash_history[m
+	[31m.bash_logout[m
+	[31m.bashrc[m
+	[31m.gitconfig[m
+	[31m.landscape/[m
+	[31m.motd_shown[m
+	[31m.profile[m
+	[31m.ssh/[m
+	[31m.sudo_as_admin_successful[m
+	[31mmy_git_session[m
+	[31mmy_unix_session[m
+
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ git status -s
+[32mA[m  README
+[31m??[m .bash_history
+[31m??[m .bash_logout
+[31m??[m .bashrc
+[31m??[m .gitconfig
+[31m??[m .landscape/
+[31m??[m .motd_shown
+[31m??[m .profile
+[31m??[m .ssh/
+[31m??[m .sudo_as_admin_successful
+[31m??[m my_git_session
+[31m??[m my_unix_session
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ git commit
+hint: Waiting for your editor to close the file... error: cannot run emacs: No such file or directory
+error: unable to start editor 'emacs'
+Please supply the message using either -m or -F option.
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ echoechosdsd[K[K[K[K[K[K[K[K[K[K[K[K^C
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ 
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ 
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ 
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ 
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ 
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ 
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ 
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ 
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ 
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ 
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ 
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ 
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ 
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ 
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ 
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ 
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ 
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ 
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ 
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ 
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ 
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ 
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ 
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ 
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ 
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ 
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ 
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ 
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ 
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ 
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ 
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ 
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ 
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ 
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ clear
+[H[2J[3J]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ echo "My [K[K[K[K' [KMy Project 2' > CONTRIBUTING.md
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ git status
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   README[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m.bash_history[m
+	[31m.bash_logout[m
+	[31m.bashrc[m
+	[31m.gitconfig[m
+	[31m.landscape/[m
+	[31m.motd_shown[m
+	[31m.profile[m
+	[31m.ssh/[m
+	[31m.sudo_as_admin_successful[m
+	[31mCONTRIBUTING.md[m
+	[31mmy_git_session[m
+	[31mmy_unix_session[m
+
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ git add CONTRIBUTING.md
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ git status
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   CONTRIBUTING.md[m
+	[32mnew file:   README[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m.bash_history[m
+	[31m.bash_logout[m
+	[31m.bashrc[m
+	[31m.gitconfig[m
+	[31m.landscape/[m
+	[31m.motd_shown[m
+	[31m.profile[m
+	[31m.ssh/[m
+	[31m.sudo_as_admin_successful[m
+	[31mmy_git_session[m
+	[31mmy_unix_session[m
+
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ vim CONTRIBUTING.md
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;38r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[38;1H"CONTRIBUTING.md" 1L, 13C[2;1H▽[6n[2;1H  [1;1H[>c]10;?]11;?[1;1HMy Project 2
+[94m~                                                                                                                                                                       [3;1H~                                                                                                                                                                       [4;1H~                                                                                                                                                                       [5;1H~                                                                                                                                                                       [6;1H~                                                                                                                                                                       [7;1H~                                                                                                                                                                       [8;1H~                                                                                                                                                                       [9;1H~                                                                                                                                                                       [10;1H~                                                                                                                                                                       [11;1H~                                                                                                                                                                       [12;1H~                                                                                                                                                                       [13;1H~                                                                                                                                                                       [14;1H~                                                                                                                                                                       [15;1H~                                                                                                                                                                       [16;1H~                                                                                                                                                                       [17;1H~                                                                                                                                                                       [18;1H~                                                                                                                                                                       [19;1H~                                                                                                                                                                       [20;1H~                                                                                                                                                                       [21;1H~                                                                                                                                                                       [22;1H~                                                                                                                                                                       [23;1H~                                                                                                                                                                       [24;1H~                                                                                                                                                                       [25;1H~                                                                                                                                                                       [26;1H~                                                                                                                               Script started on 2023-04-26 17:43:34+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="120" LINES="30"]
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ e[Kvim CONTRIBUTING.md 
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;30r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[30;1H[97m[41mE325: ATTENTION[m
+Found a swap file by the name ".CONTRIBUTING.md.swp"
+[10Cowned by: spbose23   dated: Wed Apr 26 17:42:46 2023
+[9Cfile name: ~spbose23/CONTRIBUTING.md
+[10Cmodified: YES
+[9Cuser name: spbose23   host name: TIGER02981
+[8Cprocess ID: 96
+While opening file "CONTRIBUTING.md"
+[13Cdated: Wed Apr 26 17:39:38 2023
+
+(1) Another program may be editing the same file.  If this is the case,
+    be careful not to end up with two different instances of the same
+    file when making changes.  Quit, or continue with caution.
+(2) An edit session for this file crashed.
+    If this is the case, use ":recover" or "vim -r CONTRIBUTING.md"
+    to recover the changes (see ":help recovery").
+    If you did this already, delete the swap file ".CONTRIBUTING.md.swp"
+    to avoid this message.
+
+[32mSwap file ".CONTRIBUTING.md.swp" already exists![m
+[32m[O]pen Read-Only, (E)dit anyway, (R)ecover, (D)elete it, (Q)uit, (A)bort: [?25h[m[30;1H[K[?25l[30;1H"CONTRIBUTING.md" 1L, 13C[2;1H▽[6n[2;1H  [1;1H[>c]10;?]11;?[1;1HMy Project 2
+[94m~                                                                                                                       [3;1H~                                                                                                                       [4;1H~                                                                                                                       [5;1H~                                                                                                                       [6;1H~                                                                                                                       [7;1H~                                                                                                                       [8;1H~                                                                                                                       [9;1H~                                                                                                                       [10;1H~                                                                                                                       [11;1H~                                                                                                                       [12;1H~                                                                                                                       [13;1H~                                                                                                                       [14;1H~                                                                                                                       [15;1H~                                                                                                                       [16;1H~                                                                                                                       [17;1H~                                                                                                                       [18;1H~                                                                                                                       [19;1H~                                                                                                                       [20;1H~                                                                                                                       [21;1H~                                                                                                                       [22;1H~                                                                                                                       [23;1H~                                                                                                                       [24;1H~                                                                                                                       [25;1H~                                                                                                                       [26;1H~                                                                                                                       [27;1H~                                                                                                                       [28;1H~                                                                                                                       [29;1H~                                                                                                                       [m[30;103H1,1[11CAll[1;1H[?25h[?25l[30;93H^[[1;1H[30;95H[[1;1H[30;96H>[1;1H[30;97H0[1;1H[30;98H;[1;1H[30;99H1[1;1H[30;100H0[1;1H[30;101H;[1;1H[30;93H         [1;1H[?25h[?25l[30;93Hi[1;1H[30;93H [1;1H[30;1H[1m-- INSERT --[m[30;13H[K[30;103H1,1[11CAll[1;1H[?25h[?25l[30;105H2[1;2H[?25h[?25l[30;105H3[1;3H[?25h[?25l[30;105H4[1;4H[?25h[?25l[30;105H5[1;5H[?25h[?25l[30;105H6[1;6H[?25h[?25l[30;105H7[1;7H[?25h[?25l[30;105H8[1;8H[?25h[?25l[30;105H9[1;9H[?25h[?25l[30;105H10[1;10H[?25h[?25l[30;106H1[1;11H[?25h[?25l[30;106H2[1;12H[?25h[?25l[30;106H3[1;13H[?25h[?25l[2;1H[K[30;103H2,1 [2;1H[?25h[?25lM[30;105H2[2;2H[?25h[?25ly[30;105H3[2;3H[?25h[?25l[30;105H4[2;4H[?25h[?25lP[30;105H5[2;5H[?25h[?25lr[30;105H6[2;6H[?25h[?25lo[30;105H7[2;7H[?25h[?25lj[30;105H8[2;8H[?25h[?25le[30;105H9[2;9H[?25h[?25lc[30;105H10[2;10H[?25h[?25lt[30;106H1[2;11H[?25h[?25l[30;106H2[2;12H[?25h[?25l2[30;106H3[2;13H[?25h[?25l[30;106H4[2;14H[?25h[?25lc[30;106H5[2;15H[?25h[?25lh[30;106H6[2;16H[?25h[?25la[30;106H7[2;17H[?25h[?25ln[30;106H8[2;18H[?25h[?25lg[30;106H9[2;19H[?25h[?25le[30;105H20[2;20H[?25h[?25ld[30;106H1[2;21H[?25h[30;1H[K[2;20H[?25l[30;93H^[[2;20H[30;93H  [2;21H[30;103H2,20[10CAll[2;20H[?25h[?25l[30;93H:[2;20H[30;93H[K[30;1H:[?2004h[?25hwq[?25l[?2004l"CONTRIBUTING.md" 2L, 34C written[23;2t[23;1t
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ git status
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   CONTRIBUTING.md[m
+	[32mnew file:   README[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   CONTRIBUTING.md[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m.CONTRIBUTING.md.swp[m
+	[31m.bash_history[m
+	[31m.bash_logout[m
+	[31m.bashrc[m
+	[31m.gitconfig[m
+	[31m.landscape/[m
+	[31m.motd_shown[m
+	[31m.profile[m
+	[31m.ssh/[m
+	[31m.sudo_as_admin_successful[m
+	[31m.viminfo[m
+	[31mmy_git_session[m
+	[31mmy_unix_session[m
+
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ git add CONTRIBUTING.ms[Kd
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ git status
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   CONTRIBUTING.md[m
+	[32mnew file:   README[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m.CONTRIBUTING.md.swp[m
+	[31m.bash_history[m
+	[31m.bash_logout[m
+	[31m.bashrc[m
+	[31m.gitconfig[m
+	[31m.landscape/[m
+	[31m.motd_shown[m
+	[31m.profile[m
+	[31m.ssh/[m
+	[31m.sudo_as_admin_successful[m
+	[31m.viminfo[m
+	[31mmy_git_session[m
+	[31mmy_unix_session[m
+
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ [K]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ echo '# test lu[Kine' >> CONTRIBUTING.md
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ git status
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   CONTRIBUTING.md[m
+	[32mnew file:   README[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   CONTRIBUTING.md[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m.CONTRIBUTING.md.swp[m
+	[31m.bash_history[m
+	[31m.bash_logout[m
+	[31m.bashrc[m
+	[31m.gitconfig[m
+	[31m.landscape/[m
+	[31m.motd_shown[m
+	[31m.profile[m
+	[31m.ssh/[m
+	[31m.sudo_as_admin_successful[m
+	[31m.viminfo[m
+	[31mmy_git_session[m
+	[31mmy_unix_session[m
+
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ git diff
+[?1h=[1mdiff --git a/CONTRIBUTING.md b/CONTRIBUTING.md[m[m
+[1mindex a953477..3a82035 100644[m[m
+[1m--- a/CONTRIBUTING.md[m[m
+[1m+++ b/CONTRIBUTING.md[m[m
+[36m@@ -1,2 +1,3 @@[m[m
+ My Project 2[m[m
+ My Project 2 changed[m[m
+[32m+[m[32m# test line[m[m
+[K[?1l>]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ git commit
+hint: Waiting for your editor to close the file... error: cannot run emacs: No such file or directory
+error: unable to start editor 'emacs'
+Please supply the message using either -m or -F option.
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ git commit -m
+error: switch `m' requires a value
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ git commit -m[KF
+error: switch `F' requires a value
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ git commit -Fm "Initial Commit"
+[main 0a99edb] Initial Commit
+ 2 files changed, 3 insertions(+)
+ create mode 100644 CONTRIBUTING.md
+ create mode 100644 README
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ git mv README README.md
+fatal: destination exists, source=README, destination=README.md
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ ls
+CONTRIBUTING.md  README  README.md  my_git_session  my_unix_session
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ lsgit mv README README.md_.md1.md
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ git status
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mrenamed:    README -> README_1.md[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   CONTRIBUTING.md[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m.CONTRIBUTING.md.swp[m
+	[31m.bash_history[m
+	[31m.bash_logout[m
+	[31m.bashrc[m
+	[31m.gitconfig[m
+	[31m.landscape/[m
+	[31m.motd_shown[m
+	[31m.profile[m
+	[31m.ssh/[m
+	[31m.sudo_as_admin_successful[m
+	[31m.viminfo[m
+	[31mmy_git_session[m
+	[31mmy_unix_session[m
+
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ git rm README_1.md
+error: the following file has changes staged in the index:
+    README_1.md
+(use --cached to keep the file, or -f to force removal)
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ git add README
+fatal: pathspec 'README' did not match any files
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ git log
+[?1h=[33mcommit 0a99edb3a3a59b7dccb1fa4f31f200630b84f7ce[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m[m
+Author: Soumya P Bose <soumya.bose@tigeranalytics.com>[m
+Date:   Wed Apr 26 17:59:59 2023 +0530[m
+[m
+    Initial Commit[m
+[m
+[33mcommit 3d05b708b2c1eb7cec64edf205ea11f4bf2530a1[m[m
+Author: Soumya P Bose <soumya.bose@tigeranalytics.com>[m
+Date:   Tue Apr 25 19:26:49 2023 +0530[m
+[m
+    first commit[m
+[K[?1l>]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ git clone https://github.com/spbose23/TCE
+Cloning into 'TCE'...
+Username for 'https://github.com': spbose23
+Password for 'https://spbose23@github.com': 
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed foScript started on 2023-04-27 15:04:10+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="120" LINES="16"]
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ ls
+CONTRIBUTING.md  README.md  README_1.md  [0m[01;34mTCE[0m  my_git_session  my_unix_session
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ mkdir git_practice_pro[K[K[K[K
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ ls
+CONTRIBUTING.md  README.md  README_1.md  [0m[01;34mTCE[0m  [01;34mgit_practice[0m  my_git_session  my_unix_session
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ cd git [K_prat[Kctice
+]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ ls[K[Kgit init
+Initialized empty Git repository in /home/spbose23/git_practice/.git/
+]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ ls
+]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ git clone https://github.com/spbose23/TCE
+Cloning into 'TCE'...
+Username for 'https://github.com': spbose23
+Password for 'https://spbose23@github.com': 
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/spbose23/TCE/'
+]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ git clone https://github.com/spbose23/TCE
+Cloning into 'TCE'...
+Username for 'https://github.com': ^C
+]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ git clone https://github.com/spbose23/TCE.git
+Cloning into 'TCE'...
+Username for 'https://github.com': spbose23
+Password for 'https://spbose23@github.com': 
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/spbose23/TCE.git/'
+]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ git clone https://github.com/spbose23/TCE.git TCE
+Cloning into 'TCE'...
+Username for 'https://github.com': spbose23
+Password for 'https://spbose23@github.com': 
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/spbose23/TCE.git/'
+]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ git clone https://github.com/spbose23/TCE.git TCE[K[K[K[K
+Cloning into 'TCE'...
+warning: You appear to have cloned an empty repository.
+]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mTCE/[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ ls
+[0m[01;34mTCE[0m
+]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ rm[K[Kls
+]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ cd[K[Kgit sa[Ktatus
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ echo 'My Project' > README
+]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mREADME[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ git add REAME[K[KDME
+]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	[32mnew file:   README[m
+
+]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ echo 'My Project_2' > CONTRIBUTING.md
+]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ git add CONTRIBUTING.ms
+fatal: pathspec 'CONTRIBUTING.ms' did not match any files
+]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ git add CONTRIBUTING.ms[Kd
+]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	[32mnew file:   CONTRIBUTING.md[m
+	[32mnew file:   README[m
+
+]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ echo 'My Project 3' >> CONTRIBUTING.md
+]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	[32mnew file:   CONTRIBUTING.md[m
+	[32mnew file:   README[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   CONTRIBUTING.md[m
+
+]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ git statusecho 'My Project 3' >> CONTRIBUTING.md[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit status[Kadd CONTRIBUTING.md
+]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ git stats[Kus
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	[32mnew file:   CONTRIBUTING.md[m
+	[32mnew file:   README[m
+
+]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ ls
+CONTRIBUTING.md  README
+]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ cd .git
+]0;spbose23@TIGER02981: ~/git_practice/.git[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice/.git[00m$ ls
+HEAD  [0m[01;34mbranches[0m  config  description  [01;34mhooks[0m  index  [01;34minfo[0m  [01;34mobjects[0m  [01;34mrefs[0m
+]0;spbose23@TIGER02981: ~/git_practice/.git[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice/.git[00m$ cd ..
+]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ [K]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ [K]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ [K]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ [K]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ [K]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ [K]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ [K]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ [K]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ [K]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ [K]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ [K]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ [K]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ [K]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ [K]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ [K]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ [K]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ [K]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ [K]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ [K]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ [K]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ [K]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ [K]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ [K]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ [K]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ [K]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ [K]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ [K]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ [K]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ [K]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ [K]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ [K]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ [K]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ [K]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ [K]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ [K]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ [K]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ [K]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ cat .gitignore
+cat: .gitignore: No such file or directory
+]0;spbose23@TIGER02981: ~/git_practice[01;32mspbose23@TIGER02981[00m:[01;34m~/git_practice[00m$ cd ..
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ cd ..at .gitignored ..[K[3Plscd .gitls[Kgit statusadd CONTRIBUTING.mdstatus[Kecho 'My Project 3' >> CONTRIBUTING.md[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit status[Kadd CONTRIBUTING.mdsecho 'My Project_2' > CONTRIBUTING.md[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit status[Kadd README[4Pstatusecho 'My Project' > README[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[16Pgit statusls[Kgit statusclone https://github.com/spbose23/TCE.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cstatus[Kclone https://github.com/spbose23/TCE.git
+Cloning into 'TCE'...
+warning: You appear to have cloned an empty repository.
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ ls
+CONTRIBUTING.md  README.md  README_1.md  [0m[01;34mTCE[0m  [01;34mgit_practice[0m  my_git_session  my_unix_session
+]0;spbose23@TIGER02981: ~[01;32mspbose23@TIGER02981[00m:[01;34m~[00m$ cd TCE
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ git status
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ echo 'My Project' > README
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ git stau[Ktus
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mREADME[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ git add README
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	[32mnew file:   README[m
+
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ echo 'My Project 1"[K' > CONTRIBUTIG[KNG.md
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ git add CONTRIBUTING.md
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ echo 'My Project 2' >> CONTRIBUTING.md
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	[32mnew file:   CONTRIBUTING.md[m
+	[32mnew file:   README[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   CONTRIBUTING.md[m
+
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ cat CONTRIBUTING,md[K[K[K.md
+My Project 1
+My Project 2
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ git add CONTRIN[KBUTING.[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[KCONTRIBUTING.md[C CONTRIBUTING.mda CONTRIBUTING.mdd CONTRIBUTING.mdd CONTRIBUTING.md[C CONTRIBUTING.md[1PCONTRIBUTING.md
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	[32mnew file:   CONTRIBUTING.md[m
+	[32mnew file:   README[m
+
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ git diff
+[?1h=[K[?1l>]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ git f[Kdiff --staged
+[?1h=[1mdiff --git a/CONTRIBUTING.md b/CONTRIBUTING.md[m[m
+[1mnew file mode 100644[m[m
+[1mindex 0000000..4303041[m[m
+[1m--- /dev/null[m[m
+[1m+++ b/CONTRIBUTING.md[m[m
+[36m@@ -0,0 +1,2 @@[m[m
+[32m+[m[32mMy Project 1[m[m
+[32m+[m[32mMy Project 2[m[m
+[1mdiff --git a/README b/README[m[m
+[1mnew file mode 100644[m[m
+[1mindex 0000000..56266d3[m[m
+[1m--- /dev/null[m[m
+[1m+++ b/README[m[m
+[36m@@ -0,0 +1 @@[m[m
+[32m+[m[32mMy Project[m[m
+:[K[K[K:[K[K:[K[K[7mNo next tag  (press RETURN)[27m[16;1H[K[K:[K[K:[K[K:[K[K:[K[K [KESCESC[KOO[KBB[K[K[?1l>
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ git add CONTRIBUTING.md
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ echo '# test line' >> CONTRIBUTING.md
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	[32mnew file:   CONTRIBUTING.md[m
+	[32mnew file:   README[m
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   CONTRIBUTING.md[m
+
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ git commit -m "Stir[K[Korey 182: fix benchmarks for speed"
+[master (root-commit) 3d087d5] Storey 182: fix benchmarks for speed
+ 2 files changed, 3 insertions(+)
+ create mode 100644 CONTRIBUTING.md
+ create mode 100644 README
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ git sa[Ktatus
+On branch master
+Your branch is based on 'origin/master', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   CONTRIBUTING.md[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ git remote
+origin
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ git remote =v[K[K-v
+origin	https://github.com/spbose23/TCE.git (fetch)
+origin	https://github.com/spbose23/TCE.git (push)
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ exit
+exit
+
+Script done on 2023-04-27 18:02:31+05:30 [COMMAND_EXIT_CODE="0"]
+Script started on 2023-05-02 20:32:07+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="120" LINES="30"]
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ clear
+[H[2J[3J]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ [K]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ [K]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ [K]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ [K]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ [K]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ [K]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ [K]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ [K]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ [K]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ [K]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ [K]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ [K]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ [K]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ [K]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ [K]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ [K]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ [K]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ [K]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ [K]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ [K]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ [K]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ [K]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ [K]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ [K]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ [K]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ [K]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ [K]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ [K]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ [K]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ [K]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ [K]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ [K]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ [K]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ [K]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ [K]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ [K]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ [K]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ [K]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ git rempte[K[K[Kote
+origin
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ git remote add pb https://github.com/spbose23/TCE
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ gt[Kit remote
+origin
+pb
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ git remote -v
+origin	https://github.com/spbose23/TCE.git (fetch)
+origin	https://github.com/spbose23/TCE.git (push)
+pb	https://github.com/spbose23/TCE (fetch)
+pb	https://github.com/spbose23/TCE (push)
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ git fec[Ktch pb
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ hto[K[K[Kgit push origin master
+Username for 'https://github.com': ^C
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ git push origin master
+Username for 'https://github.com': spbose23
+Password for 'https://spbose23@github.com': 
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/spbose23/TCE.git/'
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ git push origin master[C[1@ [1@-[1@u
+Username for 'https://github.com': spbose23
+Password for 'https://spbose23@github.com': 
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ git push -u origin master[K[K[K[Kin
+error: src refspec main does not match any
+[31merror: failed to push some refs to 'https://github.com/spbose23/TCE.git'
+[m]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ git branch
+[?1h=* [32mmaster[m[m
+[K[?1l>]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ git branchpush -u origin mainster[3P[C[C[C[C[C[C[C[C[C[C[C[C[C[3@-u [C[C[C[C[C[C[C[C[C[C[C[C[C
+Username for 'https://github.com': spbose23
+Password for 'https://spbose23@github.com': 
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/spbose23/TCE.git/'
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ git remote show origin
+* remote origin
+  Fetch URL: https://github.com/spbose23/TCE.git
+  Push  URL: https://github.com/spbose23/TCE.git
+  HEAD branch: (unknown)
+  Local branch configured for 'git pull':
+    master merges with remote master
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ git brancj [K[Kh -M master
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ git remote o[Kshow origin
+* remote origin
+  Fetch URL: https://github.com/spbose23/TCE.git
+  Push  URL: https://github.com/spbose23/TCE.git
+  HEAD branch: (unknown)
+  Local branch configured for 'git pull':
+    master merges with remote master
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ exit
+exit
+
+Script done on 2023-05-02 20:51:11+05:30 [COMMAND_EXIT_CODE="0"]
+Script started on 2023-05-15 10:58:59+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="120" LINES="30"]
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ git orit[Kgin
+git: 'origin' is not a git command. See 'git --help'.
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ git remote
+origin
+pb
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ git remoteoriginscript -a ~/my_git_sessionls[Kcd TCE[4Plscd home/spbose23ls[Kcd ..lear[1Pexitgit remote show origin[2Pbranch -M masterremote show originpush -u origin masterbranch[Kpush -u origin masterbranch[Kpush -u origin mainster[3P[C[C[C[C[C[C[C[C[C[C[C[C[C[10Pfetch pbremote -v[K add pb https://github.com/spbose23/TCE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K add pb https://github.com/spbose23/TCE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[5Pclearscript -a ~/my_git_sessionls[Kcd ..leargit initconfig --list[2Pcd git_practice practicels[Kmkdir git_practicels[Kgit statuscommit -m "Initial Commit"status[Kcommit -m "Initial Commit"status[Kadd CONTRIBUTING.mdstatus[Kcommit -m "Initial Commit"[8Ppush origin masterls[Kgit status[5Pcd ..git statusremote show originpush -u origin main[1Porigin masterfetch https://github.com/spbose23/TCE.gitorigin[K[3Premote -v[Kfetch https://github.com/spbose23/TCE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kcd TCE[4Plscd TCEls[C[C[C[C[Kcd home/spbose23ls[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kcd ..lear[1Pexitgit remote -v[Kstatuscommit -m "Storey 182: fix benchmarks for speed"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cstatus[Kecho '# test line' >> CONTRIBUTING.md[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit status[Kcommit -m "Storey 182: fix benchmarks for speed"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cstatus[Kecho '# test line' >> CONTRIBUTING.md[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14Pgit add[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[6Pdiff --staged[Kstatusadd CONTRIBUTING.md[4Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[9Pgit statusecho 'My Project 2' >> CONTRIBUTING.md[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[15Pgit add[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14@echo 'My Project 1' >[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit status[Kadd README[4Pstatusecho 'My Project' > README[16Pgit statusecho 'My Project' > README[16Pgit statusecho 'My Project' > README[16Pgit status[4Pcd TCE[4Plsgit clone https://github.com/spbose23/TCE.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd ..[Kgit clone https://github.com/spbose23/TCE.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd ..[Kat .gitignored ..[K[3Plscd .gitls[Kgit status[K[K[K[K[K[K[K[K[K[Kgot [K[K[Kit push https://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@github.com/spbose23/TCE
+Everything up-to-date
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ git push https://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@github.com/spbose23/TCE[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cremote[Korigin[K[K[K[K[K[K[K[K[K[Kexit
+exit
+
+Script done on 2023-05-17 14:46:50+05:30 [COMMAND_EXIT_CODE="0"]
+Script started on 2023-05-24 00:25:14+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="148" LINES="35"]
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ script -a ~/my_git_sessionclear[K[3Plscd TCE[4Plscd home/spbose23ls[Kcd home/spbose23ls[Kcd TCE[4Plsclearscript -a ~/my_git_session[Kscript -a ~/my_git_sessionclear[K[3Plscd TCE[4Plsclearscript -a ~/my_git_session[Kgit fetch pb
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ git push pb
+Username for 'https://github.com': git push https://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@github.com/spbose23/TCE
+Password for 'https://git push https://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@github.com/spbose23/TCE@github.com': 
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/spbose23/TCE/'
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ exit
+exit
+
+Script done on 2023-05-24 00:33:30+05:30 [COMMAND_EXIT_CODE="128"]
+Script started on 2023-05-24 00:34:49+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="120" LINES="12"]
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ git brancg[K[Kh [K[Kch testing
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ git log --oneline --decorate
+[?1h=[33m3d087d5[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31mpb/master[m[33m, [m[1;32mtesting[m[33m)[m Storey 182: fix benchmarks for speed[m
+[K[?1l>]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$  bgit ce[K[K[K[K[K[K[K[Kgit checkouttesting[C testing
+M	CONTRIBUTING.md
+Switched to branch 'testing'
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ vim tedy[K[Kd[Kst.rb
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;12r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[12;1H"test.rb" [New File][2;1H▽[6n[2;1H  [1;1H[>c]10;?]11;?[2;1H[94m~                                                                                                                       [3;1H~                                                                                                                       [4;1H~                                                                                                                       [5;1H~                                                                                                                       [6;1H~                                                                                                                       [7;1H~                                                                                                                       [8;1H~                                                                                                                       [9;1H~                                                                                                                       [10;1H~                                                                                                                       [11;1H~                                                                                                                       [m[12;103H0,0-1[9CAll[1;1H[?25h[?25l[12;93H^[[1;1H[12;95H[[1;1H[12;96H>[1;1H[12;97H0[1;1H[12;98H;[1;1H[12;99H1[1;1H[12;100H0[1;1H[12;101H;[1;1H[12;93H         [1;1H[?25h[?25l[12;93H^[[1;1H[12;93H  [1;1H[12;93H^[[1;1H[12;93H  [1;1H[?25h[?25l[12;93Hi[1;1H[12;93H [1;1H[12;1H[1m-- INSERT --[m[12;13H[K[12;103H0,1[11CAll[1;1H[?25h[?25ls[12;103H1,2[1;2H[?25h[?25ld[12;105H3[1;3H[?25h[?25ld[12;105H4[1;4H[?25h[?25ls[12;105H5[1;5H[?25h[12;1H[K[1;4H[?25l[12;93H^[[1;4H[12;93H  [1;5H[12;103H1,4[11CAll[1;4H[?25h[?25l[12;93H:[1;4H[12;93H[K[12;1H:[?2004h[?25hwq[?25l[?2004l"test.rb" [New] 1L, 5C written[23;2t[23;1t
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ git commit -a -m 'made a change'
+[testing f3699f5] made a change
+ 1 file changed, 1 insertion(+)
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$  , ,+[K[K[K[K[Kgit checki[Kout master
+Switched to branch 'master'
+Your branch is based on 'origin/master', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ git log
+[?1h=[33mcommit 3d087d5d794e867acce9963e594ceb5969ae3f76[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31mpb/master[m[33m)[m[m
+Author: Soumya P Bose <soumya.bose@tigeranalytics.com>[m
+Date:   Thu Apr 27 17:17:46 2023 +0530[m
+[m
+    Storey 182: fix benchmarks for speed[m
+[K[?1l>]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ git log testing
+[?1h=[33mcommit f3699f52319cc9a56ba6b1a1ae9248219eb33edc[m[33m ([m[1;32mtesting[m[33m)[m[m
+Author: Soumya P Bose <soumya.bose@tigeranalytics.com>[m
+Date:   Wed May 24 00:41:16 2023 +0530[m
+[m
+    made a change[m
+[m
+[33mcommit 3d087d5d794e867acce9963e594ceb5969ae3f76[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31mpb/master[m[33m)[m[m
+Author: Soumya P Bose <soumya.bose@tigeranalytics.com>[m
+Date:   Thu Apr 27 17:17:46 2023 +0530[m
+[m
+    Storey 182: fix benchmarks for speed[m
+:[K[K [KESCESC[KOO[KBB[K[K[?1l>]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ vim test.rb
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;12r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[12;1H"test.rb" 1L, 5C[2;1H▽[6n[2;1H  [1;1H[>c]10;?]11;?[1;1Hsdds
+[94m~                                                                                                                       [3;1H~                                                                                                                       [4;1H~                                                                                                                       [5;1H~                                                                                                                       [6;1H~                                                                                                                       [7;1H~                                                                                                                       [8;1H~                                                                                                                       [9;1H~                                                                                                                       [10;1H~                                                                                                                       [11;1H~                                                                                                                       [m[12;103H1,4[11CAll[1;4H[?25h[?25l[12;93H^[[1;4H[12;95H[[1;4H[12;96H>[1;4H[12;97H0[1;4H[12;98H;[1;4H[12;99H1[1;4H[12;100H0[1;4H[12;101H;[1;4H[12;93H         [1;4H[?25h[?25l[12;93Hs[1;4H[12;93H [1;4H[12;93Hcl[1;4H[12;93H  [1;4H[12;1H[1m-- INSERT --[m[12;13H[K[12;103H1,4[11CAll[1;4H[K[1;4H[?25h[?25la[12;105H5[1;5H[?25h[?25ld[12;105H6[1;6H[?25h[?25ld[12;105H7[1;7H[?25h[?25ls[12;105H8[1;8H[?25h[?25la[12;105H9[1;9H[?25h[12;1H[K[1;8H[?25l[12;93H^[[1;8H[12;93H  [1;9H[12;103H1,8[11CAll[1;8H[?25h[?25l[12;93H:[1;8H[12;93H[K[12;1H:[?2004h[?25hwq[?25l[?2004l"test.rb" 1L, 9C written[23;2t[23;1t
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ git commit -a -m 'made other changes'
+On branch master
+Your branch is based on 'origin/master', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mtest.rb[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ git log --oneline --decorate --graph --all
+[?1h=* [33mf3699f5[m[33m ([m[1;32mtesting[m[33m)[m made a change[m
+* [33m3d087d5[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31mpb/master[m[33m)[m Storey 182: fix benchmarks for speed[m
+[K[?1l>]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ git checkout -b iss53
+Switched to a new branch 'iss53'
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ vim index.html
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;12r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[12;1H"index.html" [New File][2;1H▽[6n[2;1H  [1;1H[>c]10;?]11;?[2;1H[94m~                                                                                                                       [3;1H~                                                                                                                       [4;1H~                                                                                                                       [5;1H~                                                                                                                       [6;1H~                                                                                                                       [7;1H~                                                                                                                       [8;1H~                                                                                                                       [9;1H~                                                                                                                       [10;1H~                                                                                                                       [11;1H~                                                                                                                       [m[12;103H0,0-1[9CAll[1;1H[?25h[?25l[12;93H^[[1;1H[12;95H[[1;1H[12;96H>[1;1H[12;97H0[1;1H[12;98H;[1;1H[12;99H1[1;1H[12;100H0[1;1H[12;101H;[1;1H[12;93H         [1;1H[?25h[?25l[12;93Hi[1;1H[12;93H [1;1H[12;1H[1m-- INSERT --[m[12;14H[K[12;103H0,1[11CAll[1;1H[?25h[?25la[12;103H1,2[1;2H[?25h[?25ls[12;105H3[1;3H[?25h[?25ld[12;105H4[1;4H[?25h[?25ld[12;105H5[1;5H[?25h[?25l[12;105H6[1;6H[?25h[12;1H[K[1;5H[?25l[12;93H^[[1;5H[12;93H  [1;6H[12;103H1,5[11CAll[1;5H[?25h[?25l[12;93H:[1;5H[12;93H[K[12;1H:[?2004h[?25hwq[?25l[?2004l"index.html" [New] 1L, 6C written[23;2t[23;1t
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ git commit -a -m 'Create new footer [issue 53]'
+On branch iss53
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mindex.html[m
+	[31mtest.rb[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ git add test.rb
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ fit ad[K[K[K[K[K[Kgit add index.html
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ git add index.html[3Ptest.rbcommit -a -m 'Create new footer [issue 53]'
+[iss53 0b20f1c] Create new footer [issue 53]
+ 2 files changed, 2 insertions(+)
+ create mode 100644 index.html
+ create mode 100644 test.rb
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ git chekout [K[K[K[K[Kckout master
+Switched to branch 'master'
+Your branch is based on 'origin/master', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ git checkout -b hotfix
+Switched to a new branch 'hotfix'
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ vim index.html
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;12r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[12;1H"index.html" [New File][2;1H▽[6n[2;1H  [1;1H[>c]10;?]11;?[2;1H[94m~                                                                                                                       [3;1H~                                                                                                                       [4;1H~                                                                                                                       [5;1H~                                                                                                                       [6;1H~                                                                                                                       [7;1H~                                                                                                                       [8;1H~                                                                                                                       [9;1H~                                                                                                                       [10;1H~                                                                                                                       [11;1H~                                                                                                                       [m[12;103H0,0-1[9CAll[1;1H[?25h[?25l[12;93Hi[1;1H[12;93H [1;1H[12;1H[1m-- INSERT --[m[12;14H[K[12;103H0,1[11CAll[1;1H[?25h[?25ls[12;103H1,2[1;2H[?25h[?25la[12;105H3[1;3H[?25h[?25ld[12;105H4[1;4H[?25h[?25lc[12;105H5[1;5H[?25h[?25lj[12;105H6[1;6H[?25h[?25lj[12;105H7[1;7H[?25h[?25lv[12;105H8[1;8H[?25h[?25ll[12;105H9[1;9H[?25h[12;1H[K[1;8H[?25l[12;93H^[[1;8H[12;93H  [1;9H[12;103H1,8[11CAll[1;8H[?25h[?25l[12;93H:[1;8H[12;93H[K[12;1H:[?2004h[?25hwq[?25l[?2004l"index.html" [New] 1L, 9C written[23;2t[23;1t
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ git commit -a -m 'Fix broken email address'
+On branch hotfix
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mindex.html[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ git commit -a -m 'Fix broken email address'[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kadd index.html
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ git add index.htmlcommit -a -m 'Fix broken email address'[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cvim index.html[Kgit commit -a -m 'Fix broken email address'
+[hotfix 2597505] Fix broken email address
+ 1 file changed, 1 insertion(+)
+ create mode 100644 index.html
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ git checkout master
+Switched to branch 'master'
+Your branch is based on 'origin/master', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ git merge hotfix
+Updating 3d087d5..2597505
+Fast-forward
+ index.html | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+ create mode 100644 index.html
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ git branch -d hotfix
+Deleted branch hotfix (was 2597505).
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ git checkout iss53
+Switched to branch 'iss53'
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ vim index.html
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;12r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[12;1H"index.html" 1L, 6C[2;1H▽[6n[2;1H  [1;1H[>c]10;?]11;?[1;1Hasdd
+[94m~                                                                                                                       [3;1H~                                                                                                                       [4;1H~                                                                                                                       [5;1H~                                                                                                                       [6;1H~                                                                                                                       [7;1H~                                                                                                                       [8;1H~                                                                                                                       [9;1H~                                                                                                                       [10;1H~                                                                                                                       [11;1H~                                                                                                                       [m[12;103H1,5[11CAll[1;5H[?25h[?25l[12;93H^[[1;5H[12;95H[[1;5H[12;96H>[1;5H[12;97H0[1;5H[12;98H;[1;5H[12;99H1[1;5H[12;100H0[1;5H[12;101H;[1;5H[12;93H         [1;5H[?25h[?25l[12;93Hi[1;5H[12;93H [1;5H[12;1H[1m-- INSERT --[m[12;14H[K[12;103H1,5[11CAll[1;5H[?25h[?25l[2;1H[K[12;103H2,1[2;1H[?25h[?25ls[12;105H2[2;2H[?25h[?25la[12;105H3[2;3H[?25h[?25ls[12;105H4[2;4H[?25h[?25la[12;105H5[2;5H[?25h[?25ls[12;105H6[2;6H[?25h[?25ls[12;105H7[2;7H[?25h[?25l[3;1H[K[12;103H3,1[3;1H[?25h[?25ls[12;105H2[3;2H[?25h[?25la[12;105H3[3;3H[?25h[?25ld[12;105H4[3;4H[?25h[12;1H[K[3;3H[?25l[12;93H^[[3;3H[12;93H  [3;4H[12;103H3,3[11CAll[3;3H[?25h[?25l[12;93H:[3;3H[12;93H[K[12;1H:[?2004h[?25hwq[?25l[?2004l"index.html" 3L, 16C written[23;2t[23;1t
+[?2004l[?1l>[?25h[>4;m[?1049l[23;0;0t]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ vim index.htmlgit checkout iss53[4Pvim index.html[Kgit commit -a -m 'Finish h[Kthe new footer [issue 53]'
+[iss53 dcde476] Finish the new footer [issue 53]
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ git  c[K[K[K crh[K[Khrck[K[K[Keckout master
+Switched to branch 'master'
+Your branch is based on 'origin/master', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ gi t[K[Kt merge iss53
+CONFLICT (add/add): Merge conflict in index.html
+Auto-merging index.html
+Automatic merge failed; fix conflicts and then commit the result.
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ git branch -d iss53
+error: The branch 'iss53' is not fully merged.
+If you are sure you want to delete it, run 'git branch -D iss53'.
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ git branch -d iss53[1P iss53D iss53
+Deleted branch iss53 (was dcde476).
+]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ git branch
+[?1h=* [32mmaster[m[m
+  testing[m[m
+[K[?1l>]0;spbose23@TIGER02981: ~/TCE[01;32mspbose23@TIGER02981[00m:[01;34m~/TCE[00m$ exit
+exit
+
+Script done on 2023-05-24 01:08:34+05:30 [COMMAND_EXIT_CODE="0"]
